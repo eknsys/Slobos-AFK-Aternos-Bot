@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00_BOT",
+    "username": "afk_s214fa",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "mlori123.aternos.me",
+    "ip": "LifestealSMP-CfCm.aternos.me",
     "port": 11914,
     "version": "",
     "try-creative": false
